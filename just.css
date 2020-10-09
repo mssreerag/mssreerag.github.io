@@ -11,9 +11,9 @@ body{
     width: fit-content;
     font-family: monospace;
     text-transform: uppercase;
-    text-shadow: 1px 1px 5px black;
+    text-shadow: 1px 1px 12px black;
     text-align: center;
-    letter-spacing: 30px;
+    letter-spacing: 2vw;
     padding: 10px;
     margin-top: -60px;
     color: #333333;
